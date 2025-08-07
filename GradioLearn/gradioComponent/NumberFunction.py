@@ -1,5 +1,4 @@
-from numbers import Number
-from random import choices
+from gradioComponent.slider import GradioSlider
 import gradio as gr
 
 class Calculate:
