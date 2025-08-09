@@ -3,6 +3,8 @@ from gradioComponent.strReverse import StrReverse
 from gradioComponent.slider import GradioSlider
 from gradioComponent.FileUpload import FileUpload
 
+from gradioComponent.QaEvaluator.appUI import AppUI
+
 def AddFunction():
     add = Calculate()
     add.grInterface().launch()
@@ -36,4 +38,7 @@ def getDataFramesWithSlider():
     demo.GetFileFrameWithSlider().launch()
 
 if __name__ == "__main__":
-    pass
+    appui = AppUI()
+
+    ui = appui.getInterface()
+    ui.launch()

@@ -1,0 +1,152 @@
+[
+    {
+        "id": 1,
+        "topic": "java",
+        "question": "What is the difference between JDK, JRE, and JVM?"
+    },
+    {
+        "id": 2,
+        "topic": "java",
+        "question": "Explain the concept of inheritance in Java."
+    },
+    {
+        "id": 3,
+        "topic": "java",
+        "question": "What is a Java interface and how is it different from an abstract class?"
+    },
+    {
+        "id": 4,
+        "topic": "java",
+        "question": "What is the difference between checked and unchecked exceptions in Java?"
+    },
+    {
+        "id": 5,
+        "topic": "java",
+        "question": "Explain the concept of multithreading in Java."
+    },
+    {
+        "id": 6,
+        "topic": "java",
+        "question": "What is the purpose of the 'final' keyword in Java?"
+    },
+    {
+        "id": 7,
+        "topic": "java",
+        "question": "What are Java generics and why are they useful?"
+    },
+    {
+        "id": 8,
+        "topic": "java",
+        "question": "What is the difference between HashMap and Hashtable in Java?"
+    },
+    {
+        "id": 9,
+        "topic": "java",
+        "question": "Explain the concept of garbage collection in Java."
+    },
+    {
+        "id": 10,
+        "topic": "java",
+        "question": "What is the difference between '==' and '.equals()' in Java?"
+    },
+    {
+        "id": 11,
+        "topic": "csharp",
+        "question": "What is the difference between a value type and a reference type in C#?"
+    },
+    {
+        "id": 12,
+        "topic": "csharp",
+        "question": "Explain the concept of async and await in C#."
+    },
+    {
+        "id": 13,
+        "topic": "csharp",
+        "question": "What are delegates and how are they different from events?"
+    },
+    {
+        "id": 14,
+        "topic": "csharp",
+        "question": "What is LINQ and why is it useful in C#?"
+    },
+    {
+        "id": 15,
+        "topic": "csharp",
+        "question": "Explain the concept of garbage collection in .NET."
+    },
+    {
+        "id": 16,
+        "topic": "csharp",
+        "question": "What is the difference between an interface and an abstract class in C#?"
+    },
+    {
+        "id": 17,
+        "topic": "csharp",
+        "question": "What is the purpose of the 'using' statement in C#?"
+    },
+    {
+        "id": 18,
+        "topic": "csharp",
+        "question": "Explain boxing and unboxing in C#."
+    },
+    {
+        "id": 19,
+        "topic": "csharp",
+        "question": "What is dependency injection and how is it implemented in C#?"
+    },
+    {
+        "id": 20,
+        "topic": "csharp",
+        "question": "What is the difference between public, private, protected, and internal access modifiers?"
+    },
+    {
+        "id": 21,
+        "topic": "angular",
+        "question": "What is Angular and how does it differ from AngularJS?"
+    },
+    {
+        "id": 22,
+        "topic": "angular",
+        "question": "Explain the concept of data binding in Angular."
+    },
+    {
+        "id": 23,
+        "topic": "angular",
+        "question": "What are Angular directives? Give examples."
+    },
+    {
+        "id": 24,
+        "topic": "angular",
+        "question": "What is dependency injection in Angular and why is it important?"
+    },
+    {
+        "id": 25,
+        "topic": "angular",
+        "question": "Explain the purpose of Angular services."
+    },
+    {
+        "id": 26,
+        "topic": "angular",
+        "question": "What is RxJS and how is it used in Angular?"
+    },
+    {
+        "id": 27,
+        "topic": "angular",
+        "question": "What is the difference between template-driven and reactive forms in Angular?"
+    },
+    {
+        "id": 28,
+        "topic": "angular",
+        "question": "Explain Angular lifecycle hooks with examples."
+    },
+    {
+        "id": 29,
+        "topic": "angular",
+        "question": "What is Angular routing and how does it work?"
+    },
+    {
+        "id": 30,
+        "topic": "angular",
+        "question": "What are Angular modules and how do they help in structuring an application?"
+    }
+]
